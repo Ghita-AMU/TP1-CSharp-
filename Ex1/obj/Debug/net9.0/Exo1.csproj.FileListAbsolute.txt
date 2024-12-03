@@ -1,0 +1,14 @@
+C:\Users\EC\TP1-C#net\Ex1\bin\Debug\net9.0\Exo1.exe
+C:\Users\EC\TP1-C#net\Ex1\bin\Debug\net9.0\Exo1.deps.json
+C:\Users\EC\TP1-C#net\Ex1\bin\Debug\net9.0\Exo1.runtimeconfig.json
+C:\Users\EC\TP1-C#net\Ex1\bin\Debug\net9.0\Exo1.dll
+C:\Users\EC\TP1-C#net\Ex1\bin\Debug\net9.0\Exo1.pdb
+C:\Users\EC\TP1-C#net\Ex1\obj\Debug\net9.0\Exo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EC\TP1-C#net\Ex1\obj\Debug\net9.0\Exo1.AssemblyInfoInputs.cache
+C:\Users\EC\TP1-C#net\Ex1\obj\Debug\net9.0\Exo1.AssemblyInfo.cs
+C:\Users\EC\TP1-C#net\Ex1\obj\Debug\net9.0\Exo1.csproj.CoreCompileInputs.cache
+C:\Users\EC\TP1-C#net\Ex1\obj\Debug\net9.0\Exo1.dll
+C:\Users\EC\TP1-C#net\Ex1\obj\Debug\net9.0\refint\Exo1.dll
+C:\Users\EC\TP1-C#net\Ex1\obj\Debug\net9.0\Exo1.pdb
+C:\Users\EC\TP1-C#net\Ex1\obj\Debug\net9.0\Exo1.genruntimeconfig.cache
+C:\Users\EC\TP1-C#net\Ex1\obj\Debug\net9.0\ref\Exo1.dll

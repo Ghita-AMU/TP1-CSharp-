@@ -1,0 +1,14 @@
+C:\Users\EC\TP1-C#net\Ex3\bin\Debug\net9.0\Ex3.exe
+C:\Users\EC\TP1-C#net\Ex3\bin\Debug\net9.0\Ex3.deps.json
+C:\Users\EC\TP1-C#net\Ex3\bin\Debug\net9.0\Ex3.runtimeconfig.json
+C:\Users\EC\TP1-C#net\Ex3\bin\Debug\net9.0\Ex3.dll
+C:\Users\EC\TP1-C#net\Ex3\bin\Debug\net9.0\Ex3.pdb
+C:\Users\EC\TP1-C#net\Ex3\obj\Debug\net9.0\Ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EC\TP1-C#net\Ex3\obj\Debug\net9.0\Ex3.AssemblyInfoInputs.cache
+C:\Users\EC\TP1-C#net\Ex3\obj\Debug\net9.0\Ex3.AssemblyInfo.cs
+C:\Users\EC\TP1-C#net\Ex3\obj\Debug\net9.0\Ex3.csproj.CoreCompileInputs.cache
+C:\Users\EC\TP1-C#net\Ex3\obj\Debug\net9.0\Ex3.dll
+C:\Users\EC\TP1-C#net\Ex3\obj\Debug\net9.0\refint\Ex3.dll
+C:\Users\EC\TP1-C#net\Ex3\obj\Debug\net9.0\Ex3.pdb
+C:\Users\EC\TP1-C#net\Ex3\obj\Debug\net9.0\Ex3.genruntimeconfig.cache
+C:\Users\EC\TP1-C#net\Ex3\obj\Debug\net9.0\ref\Ex3.dll
